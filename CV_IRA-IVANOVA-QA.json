@@ -1,0 +1,109 @@
+{
+   "Ira Ivanova": {
+    "location": "Dublin, Ireland",
+    "contact": {
+      "phone": "085-211-2095",
+      "email": "ivanova.i.v0322@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/ira-i/",
+      "visa": "Stamp 1G Visa, may work full-time without an Employment Permit"
+    },
+    "position": "Software QA Engineer",
+    "summary": "Experienced QA Engineer with a demonstrated history of working in the information technology and services industry. Strong professional skills in various types of testing Web, Mobile, and Desktop Applications. Proven record of successful implementation of test strategies. Experienced in overall QA process development and implementation.",
+    "work_experience": [
+      {
+        "position": "Middle QA Engineer",
+        "company": "Effective Technologies",
+        "dates": "May 2022 - July 2023",
+        "responsibilities": [
+          "Led testing efforts for intricate client-server applications",
+          "Executed comprehensive testing across different levels (Unit, Integration, System, Acceptance) using industry-standard methodologies",
+          "Proficient in backend testing with Postman, ensuring API functionality and data integrity",
+          "Designed and implemented effective test plans, cases, and scenarios to detect software defects and ensure optimal performance",
+          "Mentored junior team members, providing guidance on testing techniques and tools",
+          "Traffic sniffer (Charles, Fiddler, Proxyman)",
+          "Checking the correct operation of the specified application parameters (JSON)"
+        ]
+      },
+      {
+        "position": "Junior QA Engineer",
+        "company": "Effective Technologies",
+        "dates": "Aug 2020 - May 2021",
+        "responsibilities": [
+          "Developed and executed testing plans and strategies for client-server applications",
+          "Conducted testing across various levels to ensure software quality",
+          "Participated in design reviews and feature development planning",
+          "Reported defects and maintained quality standards within the QA team",
+          "Managed project risks and provided task status reports for release",
+          "Provided feedback and suggestions for testing process improvements",
+          "Reported on testing results"
+        ]
+      },
+      {
+        "position": "Quality Assurance Intern",
+        "company": "Effective Technologies",
+        "dates": "Jun 2020 - Aug 2020",
+        "responsibilities": [
+          "Conducted functional manual testing of client-server applications to ensure their performance and reliability",
+          "Participated in gathering and analyzing requirements to align testing efforts with project objectives",
+          "Assisted in localization, documentation, and support of defects to facilitate their resolution",
+          "Designed and wrote test documentation using Allure, ensuring comprehensive coverage of testing scenarios",
+          "Provided detailed reports on the results of testing, highlighting key findings and recommendations for improvement"
+        ]
+      },
+      {
+        "position": "Self Employed",
+        "dates": "Jul 2019 - Apr 2020",
+        "responsibilities": [
+          "Interacted with clients to understand their needs and preferences",
+          "Conducted market research to identify trends and opportunities",
+          "Conducted assortment research to optimize product offerings",
+          "Maintained records of expenses and income to ensure financial stability",
+          "Negotiated with landlords to secure favorable rental agreements",
+          "Worked closely with suppliers to maintain inventory levels and ensure product availability",
+          "Interacted with tax authorities to ensure compliance with regulations",
+          "Interacted with banks to manage financial transactions and accounts",
+          "Developed and implemented a product promotion strategy to increase visibility and sales"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Foreign Language Teacher",
+        "institution": "Linguistics University of Nizhny Novgorod",
+        "dates": "March 2023 - Present",
+        "notes": "Gaining a 3rd level qualification remotely (graduating in 2025), driven by limited choices back home. Yet, real passion is pursuing a career in IT."
+      },
+      {
+        "degree": "Bachelor of Teacher-psychologist",
+        "institution": "Minin Nizhny Novgorod State Pedagogical University",
+        "dates": "Sep 2019 - March 2023"
+      }
+    ],
+    "additional_information": {
+      "technical_skills": {
+        "Windows": ["Hyper-V", "CMD", "PowerShell"],
+        "Linux": ["SSH", "Bash"],
+        "Hardware": ["iLO", "HP DL/BL", "BIOS/UEFI"],
+        "Hypervisors": ["VMware", "Hyper-V"],
+        "Monitoring": ["Zabbix"],
+        "Orchestration": ["AWX"],
+		    "UX/UI": ["Devtools", "Postman", "Figma"], 
+		    "Networking": ["TCP/IP", "LAN/WLAN"],
+        "Tools": ["Postman", "Swagger", "Databases", "Python Basics", "git", "XML/JSON", "Jira"]
+      },
+      "languages": {
+        "English": "Advanced",
+        "Romanian": "Native",
+        "Russian": "Native"
+      },
+      "certifications": [
+        "Connect and Protect: Networks and Network Security",
+        "Python Generation",
+        "Postman for QA",
+        "The Complete 2023 Software Testing Bootcamp",
+        "Software Verification",
+        "EF Standard English Test (EF SET)"
+      ]
+    }
+  }
+}
